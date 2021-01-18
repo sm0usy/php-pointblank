@@ -6,8 +6,19 @@
  - Composer
 
 # HOW TO USE: 
+ - Clone repository
+    ```bash
+    git clone https://github.com/sm0usy/php-pointblank.git
+    ```
+ - Install package pada composer.json
+    ```bash
+    composer install
+    ```
  - Buat file yang berisikan kode redeem
- - Jalankan php redeem.php
+ - Jalankan auto redeem
+    ```bash
+    php redeem.php
+    ```
  - Masukan username, password dan juga file kode redeem
 
 # SCREENSHOOT
