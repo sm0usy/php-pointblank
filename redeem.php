@@ -12,7 +12,7 @@ $Redeem->run();
 
 class Redeem
 {
-    private $apiLogin = 'http://localhost:8080/botpb/web/pb.php'; // ganti api login kamu di sini
+    private $apiLogin = 'http://api.ku5ut.us/sm0usy/v2/login'; // ganti api login kamu di sini
     private $cookieFileName = 'cookies.tmp';
     private $recentUsername;
     private $recentPassword;
