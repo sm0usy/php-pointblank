@@ -1,0 +1,5 @@
+{
+    "require": {
+        "wujunze/php-cli-color": "^v2.4"
+    }
+}
